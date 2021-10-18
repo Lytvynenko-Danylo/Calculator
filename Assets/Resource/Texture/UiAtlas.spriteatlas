@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UiAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: baae5dfa45e109b46b52b496741f1110, type: 3}
+    - {fileID: 2800000, guid: 5e638988da4dc054d95d531eb45d6f2a, type: 3}
+    - {fileID: 2800000, guid: a982412c99f899e46a3357fbab0df9ba, type: 3}
+    - {fileID: 2800000, guid: fe8c3561aaf783245afebcfec037b942, type: 3}
+    - {fileID: 2800000, guid: c7cfbbbc7dd8e294cb31a8d000896657, type: 3}
+    - {fileID: 2800000, guid: 67dfeba7af619294c881cacea08a44a9, type: 3}
+    - {fileID: 2800000, guid: bea1465f810c17845b014a16824fdbdc, type: 3}
+    - {fileID: 2800000, guid: b9d695a11da3d3f4e8ff7d6ab6a43397, type: 3}
+    - {fileID: 2800000, guid: d1f35d574ad9ca047b3e4056c4cd1dd8, type: 3}
+    totalSpriteSurfaceArea: 171662
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fe8c3561aaf783245afebcfec037b942, type: 3}
+  - {fileID: 21300000, guid: b9d695a11da3d3f4e8ff7d6ab6a43397, type: 3}
+  - {fileID: 21300000, guid: d1f35d574ad9ca047b3e4056c4cd1dd8, type: 3}
+  - {fileID: 21300000, guid: 67dfeba7af619294c881cacea08a44a9, type: 3}
+  - {fileID: 21300000, guid: 5e638988da4dc054d95d531eb45d6f2a, type: 3}
+  - {fileID: 21300000, guid: baae5dfa45e109b46b52b496741f1110, type: 3}
+  - {fileID: 21300000, guid: a982412c99f899e46a3357fbab0df9ba, type: 3}
+  - {fileID: 21300000, guid: c7cfbbbc7dd8e294cb31a8d000896657, type: 3}
+  - {fileID: 21300000, guid: bea1465f810c17845b014a16824fdbdc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - extra_math_icon
+  - abacus_bone_green
+  - abacus_bone
+  - math_icon
+  - backspace_icon
+  - abacus_icon
+  - button_bg
+  - history_icon
+  - abacus_line
+  m_RenderDataMap: {}
+  m_Tag: UiAtlas
+  m_IsVariant: 0

@@ -1,0 +1,25 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Math3/v16/Server/sqlite3
+/.vs
+/obj/Debug
+/Logs
+/Library
+/Temp
+/LocalizationBuilder/gservice/
+/*.csproj
+.idea/
+
+*.sln
+
+.vscode/
+.python-version
+env-14.5.0
+.DS_Store
+node_modules/
+/bin
+/Release
+/Assets/Scene/Test
+UserSettings/EditorUserSettings.asset
